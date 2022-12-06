@@ -4,7 +4,7 @@ fun main() {
     println(part1(input))
 }
 
-private val input = readInput("day04_test_input")
+private val input = readInput("day04_input")
 
 
 private fun part1(input: List<String>): Pair<Int, Int> {
